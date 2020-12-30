@@ -3,5 +3,8 @@ name = "qcsim"
 version = "0.1.0"
 authors = ["Jannik Obermann <jannik.obermann@gmail.com>"]
 edition = "2018"
+description = "qcsim - WIP"
+license = "MIT"
+repository = "https://github.com/qcsim/qcsim"
 
 [dependencies]
